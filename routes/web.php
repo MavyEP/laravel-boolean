@@ -15,7 +15,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/homepage', function () {
     return view('homepage');
-});
+})->name('homepage');
 
 Route::get('/privacy', function () {
     return view('privacy');

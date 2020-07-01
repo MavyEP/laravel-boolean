@@ -1,0 +1,22 @@
+.homepage_object {
+  display: flex;
+  flex-direction: row;
+}
+
+.object_square {
+  width: 50%;
+  height: 100%;
+}
+
+#pc_gif {
+  max-width: 90%;
+  margin: auto;
+}
+
+.object_1 {
+  height: 400px;
+
+  .left{
+    padding: 30px 15px;
+  }
+}
