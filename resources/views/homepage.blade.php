@@ -5,7 +5,7 @@
 @section('content')
    @include('partials.menu')
 
-   <div class="container">
+   <div class="container titles_color">
      <section class="homepage_object object_1">
        <div class="object_square left">
          <h2>DIVENTA</h2>
