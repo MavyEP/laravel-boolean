@@ -7,6 +7,6 @@
   </head>
   <body>
     @yield('content')
-    @yield('contatti')
+    <script src="{{ asset('js/main.js') }}" charset="utf-8"></script>
   </body>
 </html>
